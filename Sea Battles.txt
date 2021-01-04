@@ -1,0 +1,26 @@
+SEA BATTLE 1
+0 attacking transports
+0 attacking sub
+0 attacking aircraft carriers
+1 attacking fighters
+0 attacking bombers
+0 attacking battleships
+0 defending transports
+1 defending sub
+0 defending aircraft carriers
+0 defending battleships
+0 defending fighters
+0 defending bombers
+SEA BATTLE 2
+0 attacking transports
+0 attacking sub
+0 attacking aircraft carriers
+1 attacking fighters
+0 attacking bombers
+0 attacking battleships
+0 defending transports
+3 defending sub
+0 defending aircraft carriers
+0 defending battleships
+0 defending fighters
+0 defending bombers

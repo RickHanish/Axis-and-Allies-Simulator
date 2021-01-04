@@ -1,0 +1,18 @@
+Infantry
+2
+Armor
+2
+Fighter
+4
+Bomber
+1
+Anti-Aircraft
+1
+Battleship
+4
+Aircraft Carrier
+3
+Transport
+1
+Submarine
+2
